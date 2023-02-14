@@ -1,12 +1,6 @@
 #!/bin/bash
 
-# Affan Selim KAYA
-# 200709006
-# Computer Engineering (English)
-# Shell Programming CES301
-# 2022-2023 1st Somestr (2022-Fall)
-# Project: 2
-# Asst.Prof.Dr Deniz DAL
+
 
 
 # Function that removes any punctuation etc. to make words understandable easily by code.
